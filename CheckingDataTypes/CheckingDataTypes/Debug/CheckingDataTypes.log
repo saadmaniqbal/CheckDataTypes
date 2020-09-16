@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(374): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(391): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(499): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(620): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(624): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(629): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(659): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(664): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(729): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(802): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(819): warning C4018: '<': signed/unsigned mismatch
+c:\users\saadm\desktop\cosc 4315 fall '19 - ordonez\checkingdatatypes\checkingdatatypes\main.cpp(928): warning C4018: '<': signed/unsigned mismatch
+  CheckingDataTypes.vcxproj -> C:\Users\saadm\Desktop\COSC 4315 Fall '19 - Ordonez\CheckingDataTypes\Debug\CheckingDataTypes.exe

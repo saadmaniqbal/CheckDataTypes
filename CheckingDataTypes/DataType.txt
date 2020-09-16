@@ -1,0 +1,39 @@
+For variables, it will not have a period/dot in it, so we can use that to seperate a command like append or insert from the name of the variable itself
+
+if it starts with a def and has a space afterwards, its a function
+
+equals to is either assignment or the result of an addition or a multiplication
+
+quotations, either double or single, refers to characters or strings
+
+if addition or multiplication is done, but not assigned, that is a warning
+
+if a string is added to a number, it is an error
+
+multiplication between two strings will result in an error
+
+if two strings are being added, they will act as concatonation
+
+if a previously string assigned variable is now assigned as a int, it will result a warning and vice versa
+
+
+when arrays are present and empty, just include them inside storages
+
+if a string array has int added to it, it will send a warning and vice versa
+
+added two arrays will produce a warning if their datatypes do not align*
+
+multiplication between two arrays will result in an error if they are not int and of the same numbers
+
+
+if statements : comparison between two ints/strings like == >= <= < >, store it and check if both the variables are same datatype
+
+take care of local variables
+
+
+if a string and int is compared, then it is a warning
+
+presence of exp and sqrt, their interior must be int
+
+
+def is function
